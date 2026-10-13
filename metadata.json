@@ -1,0 +1,6 @@
+{
+  "name": "Custom Quiz Generator",
+  "description": "Create custom quizzes across multiple question formats with live preview, deep design customization, and one-click standalone ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
